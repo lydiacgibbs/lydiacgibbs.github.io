@@ -1,0 +1,28 @@
+
+body{
+	background-color: #deffe2;
+}
+.left{
+	background-color:  #b5e8c1;
+
+	}
+.card-blockleft{
+	background-color: #b5e8c1;
+	border-style: double;
+	border-color: #dece7e;
+  border-radius: 5px;
+}
+
+.card-blockright{
+	background-color:#b5e8c1;
+	border-style: double;
+	border-color: #dece7e;
+  border-radius: 5px;
+}
+
+.card-blockmidtop{
+	background-color: #e0bcdf;
+	border-style: double;
+	border-color: #dece7e;
+  border-radius: 5px;
+}
